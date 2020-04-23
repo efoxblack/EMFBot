@@ -1,4 +1,4 @@
-package EmF;
+package emF;
 
 import robocode.*;
 
