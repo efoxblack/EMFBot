@@ -17,7 +17,9 @@ public class LikeARecord extends RateControlRobot {
 		setScanColor(Color.white);
 		setBulletColor(Color.green);
 		
-		while(true ) {
+		setAdjustGunForRobotTurn(true);
+		
+		while(true) {
 			setTurnRight(1000);
 			
 			setVelocityRate(5);
