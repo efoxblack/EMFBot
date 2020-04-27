@@ -1,4 +1,4 @@
-package spinny;
+package track;
 
 import robocode.*;
 import robocode.util.Utils;
